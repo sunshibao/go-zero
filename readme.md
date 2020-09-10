@@ -23,7 +23,7 @@ go-zero 包含极简的 API 定义和生成工具 goctl，可以根据定义的 
 * 自动校验客户端请求参数合法性
 * 大量微服务治理和并发工具包
 
-<img src="doc/images/architecture.png" alt="架构图" width="1500" />
+![架构图](doc/images/architecture.png)
 
 ## 1. go-zero框架背景
 
@@ -207,6 +207,3 @@ Content-Length: 0
 * [通过MapReduce降低服务响应时间](doc/mapreduce.md)
 * [关键字替换和敏感词过滤工具](doc/keywords.md)
 
-## 9. 微信交流群
-
-<img src="doc/images/wechat.jpg" alt="wechat" width="300" />
